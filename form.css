@@ -1,0 +1,46 @@
+/* styles.css */
+
+/* Body styles */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Heading styles */
+  h1 {
+    color: #333;
+  }
+  
+  /* Label styles */
+  label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  /* Input styles */
+  input[type="text"],
+  input[type="number"] {
+    padding: 5px;
+    width: 200px;
+    margin-bottom: 10px;
+  }
+  
+  /* Radio button styles */
+  input[type="radio"] {
+    margin-right: 5px;
+  }
+  
+  /* Checkbox styles */
+  input[type="checkbox"] {
+    margin-right: 5px;
+  }
+  
+  /* Submit button styles */
+  input[type="submit"] {
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  
